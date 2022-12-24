@@ -18,5 +18,5 @@ function plusMinus(arr) {
   console.log(zero / arr.length);
 }
 
-const arraySas = [1, 1, 0, -1, -1];
-plusMinus(arraySas);
+const myArr = [1, 1, 0, -1, -1];
+plusMinus(myArr);
